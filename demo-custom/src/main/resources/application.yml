@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo-custom
+
+server:
+  port: 8050
